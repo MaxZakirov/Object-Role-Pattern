@@ -1,0 +1,7 @@
+C:\Users\maksy\source\repos\ObjRolePattern\ObjRolePattern\bin\Debug\ObjRolePattern.exe.config
+C:\Users\maksy\source\repos\ObjRolePattern\ObjRolePattern\bin\Debug\ObjRolePattern.exe
+C:\Users\maksy\source\repos\ObjRolePattern\ObjRolePattern\bin\Debug\ObjRolePattern.pdb
+C:\Users\maksy\source\repos\ObjRolePattern\ObjRolePattern\obj\Debug\ObjRolePattern.csprojResolveAssemblyReference.cache
+C:\Users\maksy\source\repos\ObjRolePattern\ObjRolePattern\obj\Debug\ObjRolePattern.csproj.CoreCompileInputs.cache
+C:\Users\maksy\source\repos\ObjRolePattern\ObjRolePattern\obj\Debug\ObjRolePattern.exe
+C:\Users\maksy\source\repos\ObjRolePattern\ObjRolePattern\obj\Debug\ObjRolePattern.pdb
